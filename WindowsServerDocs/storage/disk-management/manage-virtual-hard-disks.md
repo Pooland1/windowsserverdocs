@@ -13,7 +13,7 @@ ms.author: jgerend
 > **Applies To:** Windows 11, Windows 10, Windows Server 2022, Windows Server 2019, Windows Server 2016
 
 With Disk Management you can create, attach, and detach virtual hard disks. Virtual hard disks (VHDs) are disk image file formats that have similar functionalities to a physical hard drive and are designed primarily for use with Hyper-V virtual machines.
-
+.
 ## View a VHD in Disk Management
 
 VHDs appear just like physical disks in Disk Management. When a VHD has been attached and made available to the system for use, it appears blue. If the disk is detached and made unavailable, its icon reverts to gray.
